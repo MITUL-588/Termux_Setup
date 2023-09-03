@@ -1,4 +1,4 @@
-Commands To Run TBM :-
+ommands To Run Termux-setup :-
 
 
 Requirements -
@@ -10,16 +10,20 @@ Download And Installation -
 
 Open Termux and type following commands-
 
--> apt install git
+apt install git
 
--> git clone https://github.com/Akashgiri963/Termux-Banner-Maker.git
+git clone https://github.com/MITUL-588/Termux_Setup
 
--> clear
+clear
 
--> cd Termux-Banner-Maker
+cd Termux_Setup
 
--> chmod +x *
+chmod +x *
 
--> ./install.sh (Or -> bash install.sh)
+bash basic.sh
 
--> ./Termux-Baner-Maker.sh (Or -> bash Termux-Baner-Maker.sh)
+bash install.sh
+
+bash Termux-setup.sh
+
+exit
